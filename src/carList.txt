@@ -1,0 +1,7 @@
+ElectricCar	Tesla	Model 3	2023	4	AWD	45000	3000	https://ev-database.org/img/auto/Tesla_Model_3_2024/Tesla_Model_3_2024-01.jpg	315	2	true
+GasCar	Chevrolet	Corvette	2008	2	RWD	30000	60000	https://static.cargurus.com/images/forsale/2026/09/04/17/05/2007_chevrolet_corvette-pic-973822404723295678-1024x768.jpeg	20	8	Manual	Naturally Aspirated
+DieselCar	Ram	2500	2023	4	4WD	50000	3000	https://i0.wp.com/moparinsiders.com/wp-content/uploads/2023/01/8C9DDC82-3D9D-4147-891E-D03040CB5971_1_201_a.jpeg?fit=1599%2C899&ssl=1	21	6	Automatic	Turbocharged	19980	850
+HybridCar	Toyota	Prius	2023	4	RWD	25000	4000	https://di-uploads-pod44.dealerinspire.com/nyetoyota/uploads/2023/07/screenshot-2023-04-03-at-5-52-21-pmb-642c929659440-1.jpg	56	4	CVT	Naturally Aspirated	Plug-in Hybrid	44
+GasCar	Ford	F150	2015	2	4WD	35000	54000	https://thespeedtrap.files.wordpress.com/2016/12/header1.jpg?w=1360	20	8	Automatic	Naturally Aspirated
+HybridCar	Porsche	918 Spyder	2015	2	AWD	1799000	9927	https://cdn.motor1.com/images/mgl/ZBmGy/s1/2015-porsche-918-spyder.jpg	67	8	Automatic	Naturally Aspirated	Plug-In Hybrid	12
+GasCar	Ford	Raptor R	2027	4	RWD	115000	1000	https://i.ytimg.com/vi/34l3SeOHF2Q/maxresdefault.jpg	15	8	Automatic	Supercharged
